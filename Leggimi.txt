@@ -1,0 +1,10 @@
+slightly modified by OIBAF (Used for Giana & Co):
+	infact's cubesdl:
+		SDL
+		SDL_image
+	wiiSDL:
+		smpeg
+		SDL_mixer
+		SDL_ttf
+
+
